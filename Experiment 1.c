@@ -1,3 +1,5 @@
+// Array insertion at beginning ,at end ,at specific position
+
 #include<stdio.h>
 int size=5;
 int currsize=0;
